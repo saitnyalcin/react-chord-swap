@@ -1,4 +1,4 @@
-# ChordSwap
+# ChordSwap 🎸 🎶
 
 ChordSwap is an open-source web application that performs real-time pitch detection using the Web Audio API and displays the detected pitch, clarity, and a corresponding guitar chord diagram. It allows musicians and learners to practice and play chords in real-time.
 
